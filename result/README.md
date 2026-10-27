@@ -1,0 +1,1 @@
+Delivered tables and figures use earlier supplied weighted aggregates; they do not certify a fresh microdata fit. R execution writes current model diagnostics and audit files. See delivery_validation.json and root README.

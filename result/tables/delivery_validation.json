@@ -1,0 +1,58 @@
+{
+  "main_narrative_words": 670,
+  "count_excludes": [
+    "figure titles/captions/legends/sources/notes",
+    "expandable methods",
+    "footnotes",
+    "reproducibility"
+  ],
+  "source": "Earlier aggregate results from recovered Blog3 project; no new microdata estimation",
+  "metrics": {
+    "e_w_young": 0.6765023944010925,
+    "e_w_none": 0.7751441965595838,
+    "e_m_young": 0.9361723755465848,
+    "e_m_none": 0.8094725790969639,
+    "women_gap": -9.864180215849128,
+    "men_gap": 12.669979644962092,
+    "lf_w_young": 0.697665391087353,
+    "u_w_young": 0.03033402108893022,
+    "lf_w_none": 0.8034803069124472,
+    "u_w_none": 0.035266714204547536,
+    "adj_w": -10.69529158990386,
+    "adj_m": 11.232752832478374,
+    "lf_component": -10.208317143011232,
+    "u_component": 0.34413692716210487,
+    "outside_w": -10.581491582509415,
+    "unemployed_w": 0.7173113666602831,
+    "outside_m": 10.983718978104164,
+    "unemployed_m": 1.6862606668579332
+  },
+  "status_accounting": [
+    {
+      "sex": "Women",
+      "reference_employment": 77.51441965595838,
+      "young_employment": 67.65023944010925,
+      "outside_contribution_pp": -10.581491582509415,
+      "unemployed_contribution_pp": 0.7173113666602831,
+      "employment_gap_pp": -9.864180215849132
+    },
+    {
+      "sex": "Men",
+      "reference_employment": 80.94725790969639,
+      "young_employment": 93.61723755465849,
+      "outside_contribution_pp": 10.983718978104164,
+      "unemployed_contribution_pp": 1.6862606668579332,
+      "employment_gap_pp": 12.669979644962098
+    }
+  ],
+  "all_figures_embedded": true,
+  "internal_note_links_verified": true,
+  "R_execution_performed": false,
+  "Quarto_render_performed": false,
+  "HTML_build": "Python resolves supplied aggregate display values; Pandoc embeds three PNGs",
+  "R_chunks_and_scripts_synchronized": true,
+  "note_count": 6,
+  "licensed_person_records_included": false,
+  "private_credentials_included": false,
+  "footnote_presentation": "Reference QMD source-notes font, line height, indentation and item spacing; original 660px list-width override removed."
+}
